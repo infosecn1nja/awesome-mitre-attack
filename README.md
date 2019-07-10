@@ -8,7 +8,7 @@
 
 
 ## Contents
-- [Red and Purple Team](red-and-purple-team)
+- [Red and Purple Team](#red-and-purple-team)
   - [Resources](#resources)
   - [Tools](#tools)
     - [Red Team](#red-team)
