@@ -87,6 +87,7 @@
 - [osquery-attck](https://github.com/teoseller/osquery-attck) - Mapping the MITRE ATT&CK Matrix with Osquery
 - [ATTACKdatamap](https://github.com/olafhartong/ATTACKdatamap) - A datasource assessment on an event level to show potential coverage or the MITRE ATT&CK framework
 - [Splunk Mitre ATT&CK App](https://github.com/olafhartong/ThreatHunting) - A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
+- [auditd-attack]((https://github.com/bfuzzy/auditd-attack) - A Linux Auditd rule set mapped to MITRE's Attack Framework
 - [DeTTACT](https://github.com/rabobank-cdc/DeTTACT) - DeTT&CT aims to assist blue teams using ATT&CK to score and compare data log source quality, visibility coverage, detection coverage and threat actor behaviours.
 - [HELK](https://github.com/Cyb3rWard0g/HELK) - A Hunting ELK (Elasticsearch, Logstash, Kibana) with advanced analytic capabilities.
 - [Sigma](https://github.com/Neo23x0/sigma) - Generic Signature Format for SIEM Systems
