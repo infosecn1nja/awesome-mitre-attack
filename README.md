@@ -20,6 +20,7 @@
 - [Threat Intelligence](#threat-intelligence)
   - [Resources](#resources-2)
   - [Tools](#tools-2)
+- [Community](#community)  
 ------
 
 ## Red and Purple Team
@@ -113,6 +114,9 @@ ATT&CK™](https://www.sans.org/cyber-security-summit/archives/file/summit-archi
 - [cti](https://github.com/mitre/cti) - Cyber Threat Intelligence Repository expressed in STIX 2.0
 - [TALR](https://github.com/SecurityRiskAdvisors/TALR) - A public repository for the collection and sharing of detection rules in STIX format. 
 
+## Community
+- [EU ATT&CK Community](https://www.attack-community.org/)
+- [MITRE ATT&CKcon 2018](https://attack.mitre.org/resources/attackcon/)
 ------
 
 ## License
