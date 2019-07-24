@@ -24,6 +24,7 @@
 
 ## Red and Purple Team
 ### Resources
+- [MITRE ATT&CK™ Evaluations Round 1 - APT3](https://attackevals.mitre.org/methodology/round1/)
 - [Getting Started with ATT&CK: Adversary Emulation and Red Teaming](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3)
 - [Adversary Emulation Plans](https://attack.mitre.org/resources/adversary-emulation-plans/)
 - [The Threat Emulation Problem](https://blog.cobaltstrike.com/2016/02/17/the-threat-emulation-problem/)
