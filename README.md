@@ -24,6 +24,7 @@
 
 ## Red and Purple Team
 ### Resources
+- [Getting Started with ATT&CK: Adversary Emulation and Red Teaming](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3)
 - [Adversary Emulation Plans](https://attack.mitre.org/resources/adversary-emulation-plans/)
 - [The Threat Emulation Problem](https://blog.cobaltstrike.com/2016/02/17/the-threat-emulation-problem/)
 - [Why we love threat emulation exercises (and how to get started with one of your own)](https://expel.io/blog/why-we-love-threat-emulation-exercises/)
